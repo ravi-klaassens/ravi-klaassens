@@ -2,20 +2,33 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="branding/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="branding/banner-light.png">
-    <img alt="Ravi Klaassens, Design & Code" src="branding/banner-light.png">
+    <img alt="R—K" src="branding/banner-light.png">
   </picture>
 </a>
 
-### Design & Code for those who refuse to settle.
+<br>
 
-I'm Ravi Klaassens, a designer and developer based in Enschede. I create design and development experiences for music, film, culture, fashion, tech and brands that want to stand out. I work directly with brands, and as an extension of agency teams.
+**Ravi Klaassens** — Design & Code for those who refuse to settle.
 
-Selected work includes A24, Daddy Yankee, TA Design, Buyt Bags and my own R—K identity, recognized by Awwwards, The FWA and CSSDA. Currently building [Occluze](https://occluze.com).
+Designer and developer from Enschede, building for music, film, culture, fashion, tech and brands that want to stand out. Working directly with brands, or as an extension of your agency team.
 
----
+<br>
 
-- Website: [raviklaassens.com](https://raviklaassens.com)
-- Contact: [Start collaboration](https://raviklaassens.com/contact)
-- Awwwards: [awwwards.com/raviklaassens](https://www.awwwards.com/raviklaassens)
-- Instagram: [@raviklaassens](https://instagram.com/raviklaassens)
-- LinkedIn: [raviklaassens](https://linkedin.com/in/raviklaassens)
+| Selected work |  |
+| :-- | --: |
+| A24 | Web Design |
+| Daddy Yankee | Web Design |
+| TA Design | Web Design + Development |
+| Buyt Bags | Web Development |
+| R—K | Identity + Art Direction |
+
+Awwwards · The FWA · CSSDA · GSAP · Muzli
+
+<br>
+
+`NOW` Building [Occluze](https://occluze.com)  
+`NEXT` Available from Q1 2027
+
+<br>
+
+[Website](https://raviklaassens.com) — [Start collaboration](https://raviklaassens.com/contact) — [Awwwards](https://www.awwwards.com/raviklaassens) — [Instagram](https://instagram.com/raviklaassens) — [LinkedIn](https://linkedin.com/in/raviklaassens)
