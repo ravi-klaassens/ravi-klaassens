@@ -8,27 +8,10 @@
 
 <br>
 
-**Ravi Klaassens** — Design & Code for those who refuse to settle.
+Design & Code for those who refuse to settle.
 
-Designer and developer from Enschede, building for music, film, culture, fashion, tech and brands that want to stand out. Working directly with brands, or as an extension of your agency team.
-
-<br>
-
-| Selected work |  |
-| :-- | --: |
-| A24 | Web Design |
-| Daddy Yankee | Web Design |
-| TA Design | Web Design + Development |
-| Buyt Bags | Web Development |
-| R—K | Identity + Art Direction |
-
-Awwwards · The FWA · CSSDA · GSAP · Muzli
+Designer and developer from Enschede. Currently building [Occluze](https://occluze.com).
 
 <br>
 
-`NOW` Building [Occluze](https://occluze.com)  
-`NEXT` Available from Q1 2027
-
-<br>
-
-[Website](https://raviklaassens.com) — [Start collaboration](https://raviklaassens.com/contact) — [Awwwards](https://www.awwwards.com/raviklaassens) — [Instagram](https://instagram.com/raviklaassens) — [LinkedIn](https://linkedin.com/in/raviklaassens)
+[website](https://raviklaassens.com) &nbsp;&nbsp; [contact](https://raviklaassens.com/contact) &nbsp;&nbsp; [awwwards](https://www.awwwards.com/raviklaassens) &nbsp;&nbsp; [instagram](https://instagram.com/raviklaassens) &nbsp;&nbsp; [linkedin](https://linkedin.com/in/raviklaassens)
